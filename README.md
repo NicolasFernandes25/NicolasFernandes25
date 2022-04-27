@@ -1,5 +1,5 @@
 ### Olá! sou o Nicolas Fernandes
-Estudante de Análise e desenvolvimnto de sistemas
+Estudante de Análise e desenvolvimento de sistemas
 
 ##
 
