@@ -6,7 +6,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFernandes25&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="nico-Csharp" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="nico-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
   
   ##
