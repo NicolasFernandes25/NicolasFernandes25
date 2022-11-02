@@ -1,4 +1,4 @@
-### Olá, me chamo Nicolas Fernandes, estudante de Análise e desenvolvimento de sistemas
+### Olá, me chamo Nicolas Fernandes, estudante de Análise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/NicolasFernandes25">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFernandes25&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="nico-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="nico-Csharp" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
   
   ##
@@ -17,7 +17,7 @@
    <a href="https://www.linkedin.com/in/nicolas-fernandes-448043192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
    
-   ![Snake animation](https://github.com/nicolasfernandes25/nicolasfernandes25/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
